@@ -1,4 +1,4 @@
-# NoSQL: Social Network API
+# Social Network API
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## Description:
 
-SocialNetworkAPI app is an API for a social network whereby the user may share their thoughts, react to their friend's thoughts as well as create a friends list.
+The Social Network API is an API for a social network whereby the user may share their thoughts, react to their friend's thoughts as well as create a friends list.
 
 ## Technology:
 
